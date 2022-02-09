@@ -1,9 +1,0 @@
-{
-  "connectorId": "shared_document-20partner-20on-2dprem-20dg-5fed06310c8-9b6f91dfaf5deab7",
-  "environment": "Default-b2c5e48b-6b9a-48ff-98c3-3306b285e6e5",
-  "apiProperties": "apiProperties.json",
-  "apiDefinition": "apiDefinition.swagger.json",
-  "icon": "icon.png",
-  "powerAppsUrl": "https://api.powerapps.com",
-  "powerAppsApiVersion": "2016-11-01"
-}
